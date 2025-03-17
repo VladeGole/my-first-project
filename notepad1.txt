@@ -1,0 +1,4 @@
+ime
+prezime
+adresa
+stan
